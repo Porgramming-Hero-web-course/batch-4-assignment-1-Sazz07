@@ -12,7 +12,7 @@ type Vehicle = 'car' | 'bus' | 'plane';
 const currentStatus: Vehicle = 'car';
 ```
 
-###Intersection Types (&):
+### Intersection Types (&):
 It combines multiple types into one, requiring all properties of those types, perfect for merging object structures.
 
 **Example:**
